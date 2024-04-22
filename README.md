@@ -1,2 +1,2 @@
 # It-Expert-SQL
-SQL scripts for It-Expert task
+postgreSQL scripts for It-Expert task
